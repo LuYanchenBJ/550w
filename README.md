@@ -1,2 +1,2 @@
-# python_class
-python课所有代码
+# 550w搞笑代码
+550w搞笑代码
